@@ -1,4 +1,4 @@
-# 🧠 HW4 Image Classification
+# 🧠 Image Classification
 
 This project implements a **PyTorch-based image classification pipeline** for a five-class dataset (`grass`, `ocean`, `redcarpet`, `road`, `wheatfield`).  
 It includes **custom dataset loading**, **CNN architecture**, **training/validation**, and **performance evaluation** with confusion matrices.
