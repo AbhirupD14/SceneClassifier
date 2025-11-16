@@ -8,8 +8,8 @@ It includes **custom dataset loading**, **CNN architecture**, **training/validat
 ## 📦 Overview
 
 The script:
-- Loads and normalizes images using a custom `HW4_Dataset` class.
-- Defines a CNN model (`HW4NET`) with 3 convolutional layers, adaptive pooling, and fully connected layers.
+- Loads and normalizes images using a custom class.
+- Defines a CNN model with 3 convolutional layers, adaptive pooling, and fully connected layers.
 - Trains using cross-entropy loss and SGD optimizer.
 - Tracks losses and accuracy across epochs.
 - Evaluates the best model on a test set and visualizes the confusion matrix.
